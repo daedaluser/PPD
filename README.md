@@ -6,11 +6,11 @@ We introduced PolypeptideDesigner (PPD) model, a conditional text generation mod
 
 ### Dependency
 
-'''
+```
 Python 3.8.12
 PyTorch 2.0.1
 TensorFlow 2.11.0
-'''
+```
 
 The early stage and final stage parameters of PPD models are hosted on [Google Drive](https://drive.google.com/drive/folders/14uJ5ge8_RsOVMUgwjf2_SdjzXTWNju7y?usp=drive_link).
 
