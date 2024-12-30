@@ -19,6 +19,5 @@ The early stage and final stage parameters of PPD models are hosted on [Google D
 @article{Liao2024PPD,
   title={De Novo Designing of Large Polypeptide Using a Lightweight LSTM and Attention-based Diffusion Model with Per-residue Secondary Structure Condition},
   author={Liao, Sisheng and Xu, Gang and Wang, Qinghua and Ma, Jianpeng},
-  journal={Molecules},
   year={2024},
 }
